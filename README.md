@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Syed Rafey</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
-- 🔭 I’m currently working on [Brain Activity Classification](https://github.com/rafeysyed/brain-activity-deep-learning)
+- 🔭 I’m currently working on : [Brain Activity Classification](https://github.com/rafeysyed/brain-activity-deep-learning)
 
 - 🌱 I’m currently learning **Competitive Programming and Large Language Models**
 
 - 💬 Ask me about **Data Handling and Visualisation, Machine Learning & Deep Learning**
 
-- 📫 How to reach me **rafey.syed.6703@gmail.com**
+- 📫 How to reach me : **rafey.syed.6703@gmail.com**
 
-- ⚡ Fun fact **I don't discriminate between chai and coffee.**
+- ⚡ Fun fact : **I don't discriminate between tea and coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
